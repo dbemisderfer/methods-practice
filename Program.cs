@@ -12,6 +12,8 @@ namespace MethodsPractice
         //{
         //    return num1 + num2;
         //}
+
+        // Testing Github
         public static void Main(string[] args)
         {
             //string friend1 = "Matt";
