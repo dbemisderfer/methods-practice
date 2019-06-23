@@ -14,6 +14,7 @@ namespace MethodsPractice
         //}
 
         // Testing Github
+        // Another test
         public static void Main(string[] args)
         {
             //string friend1 = "Matt";
